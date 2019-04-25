@@ -1,4 +1,4 @@
-# vuejsbandnamegenerator
+# vuejs band name generator
 A VueJS app which generates band names from words stored in Firebase
 
 You have to add your own Firebase connection in firebaseConfig.js.
